@@ -19,4 +19,4 @@ When inspecting a package in Wireshark that contains the FIDO extension, you can
 
 You can easily filter for packages that contain the FIDO-extension in Wireshark by putting __tls.handshake.extension.type == 4660__ into the filter field.
 
-Captures for testing purposes can be found in the _captures_ folder of this repository.
+Captures for testing purposes can be found in the _example_captures_ folder of this repository.
